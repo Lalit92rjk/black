@@ -5,4 +5,7 @@ paneer
 
 chicken fry
 
+beans
+pizza
+
 thankyou
